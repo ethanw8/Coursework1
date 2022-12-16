@@ -1,0 +1,1 @@
+Extract all so that CSS can be applied to website. There was a problem with the file location when zipping the files as CSS was not applying.

@@ -1,0 +1,43 @@
+ /*Adding the border around the body */ 
+body{
+    border-style: solid;
+            
+
+}
+ /*Adding colour of the border */ 
+body{
+    border-color: black;
+}
+ /*Adding background colour to the border */ 
+body{
+    background-color: coral;
+}
+
+#student-info{
+    text-align: center;
+}
+
+
+
+#course-details{
+    text-align: center;
+}
+.course-header{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ethan-info{
+    text-align: center;
+}
+
+#course-header{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.course-styling{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+}

@@ -1,0 +1,51 @@
+body{
+  font-family: Verdana;
+  margin: 15px;
+  
+  
+}
+
+
+h1{
+  text-align: center;
+}
+
+.mercedes-picture{
+  text-align: left;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+a:active{
+  text-decoration: none;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+#contact:active{
+  text-decoration: none;
+
+}
+
+#contact:link{
+  text-decoration: none;
+
+}
+
+#contact:hover{
+  text-decoration: none;
+}
+
+abbr{
+  text-decoration: none;
+
+}
+
+.hr-lines{
+  background: black;
+  border-style: solid;
+}

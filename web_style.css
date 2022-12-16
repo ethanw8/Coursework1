@@ -1,0 +1,96 @@
+ /*Centering titles*/ 
+ #flat-for-sale{
+    text-align: center;
+ }
+ 
+  /*Removing the bold from the headings*/ 
+h1{
+    font-weight: normal;
+}
+
+h2{
+    font-weight: normal;
+}
+
+h3{
+    font-weight: normal;
+}
+ 
+ /*Changing font size of the main body, this has been set to 15px for each section*/ 
+#website-structure{
+    font-size: 20px;
+}
+
+#main-paragraph{
+    font-size: 20px;
+}
+
+#flat-for-sale{
+    font-size: 25px;
+}
+
+#useful-information{
+    font-size: 20px;
+}
+
+#Related_photos{
+    font-size: 20px;
+}
+
+#Reviews {
+    font-size: 20px;
+}
+.hr_lines{
+    background-color: black;
+    border-style: solid;
+    
+}
+
+ /*Making h1 and h2 headings uppercase*/ 
+h1{
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+
+
+
+ /*Changing the image sizes*/ 
+
+ 
+ 
+ 
+ /*Removing underlines from hyperlinks */ 
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
+}
+
+ /*Changing the line height of the website */ 
+#website-structure{
+    line-height: 2;
+} 
+
+
+
+/*Website background colour */ 
+
+#website-structure{
+    background-color: rgb(255, 255, 255);
+}
+

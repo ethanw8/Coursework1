@@ -1,0 +1,50 @@
+body{
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    background: grey;
+    
+    
+    
+    
+}
+
+abbr{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+/*Use wth guidance from https://www.w3schools.com/howto/howto_css_two_columns.asp*/
+.column1{
+    float: left;
+    width: 40%;
+    
+}
+
+/*Use wth guidance from https://www.w3schools.com/howto/howto_css_two_columns.asp*/
+.column2{
+    float: right;
+    width: 51%;
+}
+
+/*Use wth guidance from https://www.w3schools.com/howto/howto_css_two_columns.asp*/
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#main-title{
+    text-align: left;
+}
+
+.edu-bg{
+    text-align: left;
+}
+
+
+
+

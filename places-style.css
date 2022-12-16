@@ -1,0 +1,74 @@
+#share-travels {
+    font-size: 20px;
+}
+
+#grand-union{
+    font-size: 15px;
+}
+
+#main-paragraph{
+    font-size: 13px;
+}
+
+#canal-caption{
+    font-size: 10px;
+    font-style: italic;
+}
+
+#related-photos {
+    font-size: 13px;
+}
+
+#reviews {
+    font-size: 14px;
+}
+
+#options{
+    color: aqua;
+}
+
+#Description{
+    font-size: 14px;
+
+}
+
+h1{
+    color: #097969;
+
+}
+
+#grand-union{
+    color: #AFE1AF;
+}
+
+.review-lines{
+    background: black;
+    border-style: solid;
+}
+
+.review-lines{
+    background: black;
+    border-style: solid;
+}
+
+
+/*Removing underlines from the link */
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#copyright {
+    font-style: italic;
+}
+
+.hyperlinks{
+    text-decoration: underline;
+}
